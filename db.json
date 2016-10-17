@@ -1,22 +1,80 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
+      "name": "raffie",
+      "age": 12,
+      "gender": "F",
+      "pnumber": 1111,
+      "email": "sadfd",
+      "rating": "⭐️⭐️⭐️⭐️⭐️",
+      "comment": "hi, test this is.",
       "movies": [
-        "harry potter"
+        "Accomodation 🏢",
+        "Foods & Beverages 🍽🍹",
+        "Laundry Services 👕"
       ],
-      "gender": "male",
+      "show": false,
+      "selectedName": "",
+      "selectedAge": "",
+      "selectedGender": "",
+      "selectedPnumber": "",
+      "selectedEmail": "",
+      "selectedRating": "",
+      "selectedMovies": [],
+      "selectedComment": "",
+      "seledtedId": "",
       "id": 1
     },
     {
-      "name": "Diccion",
-      "color": "blue",
+      "name": "",
+      "age": "",
+      "gender": "",
+      "pnumber": "",
+      "email": "",
+      "rating": "",
+      "comment": "",
       "movies": [
-        "harry potter"
+        "Accomodation 🏢",
+        "Foods & Beverages 🍽🍹",
+        "House Keeping 🛠",
+        "Laundry Services 👕"
       ],
-      "gender": "male",
-      "id": 4
+      "show": false,
+      "selectedName": "",
+      "selectedAge": "",
+      "selectedGender": "",
+      "selectedPnumber": "",
+      "selectedEmail": "",
+      "selectedRating": "",
+      "selectedMovies": [],
+      "selectedComment": "",
+      "seledtedId": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "age": "",
+      "gender": "",
+      "pnumber": "",
+      "email": "",
+      "rating": "",
+      "comment": "as",
+      "movies": [
+        "Accomodation 🏢",
+        "Foods & Beverages 🍽🍹",
+        "Laundry Services 👕"
+      ],
+      "show": false,
+      "selectedName": "",
+      "selectedAge": "",
+      "selectedGender": "",
+      "selectedPnumber": "",
+      "selectedEmail": "",
+      "selectedRating": "",
+      "selectedMovies": [],
+      "selectedComment": "",
+      "seledtedId": "",
+      "id": 3
     }
   ]
 }
